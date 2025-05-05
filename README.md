@@ -89,24 +89,11 @@ Online-Examination-System/
 
 ```
 
----
-
-## 🎥 Project Demo
-
-> 📽️ Click below to watch a demo of the system in action:
-
-<video width="640" height="360" controls>
-  <source src="LinkedIn.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
 
 ## 📢 LinkedIn Showcase
+🚀 View our official project showcase post:
 
-> 🚀 View our official project showcase post:
-
-🔗 [LinkedIn Project Showcase]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/posts/muhammad-awab-sial_dsaproject-gpt3-edtech-activity-7169750927891939328-2U-9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECCe6sBCOVu49HJ04L2AxGqp_k5JhvVvGU))  
+[🔗 LinkedIn Project Showcase](https://shorturl.at/oZlV8)
 
 ---
 
