@@ -80,9 +80,9 @@ Online-Examination-System/
 │── DSA_2.pro                   # Qt project file
 │── DSA_2.pro.user              # Qt project user settings
 │── LinkedIn.mp4                # Demo video (LinkedIn post)
-│── README.md                   # Project documentation
+│── README.md                   # Project detail readme file
 │── main.cpp                    # Main entry point of the application
-│── mainwindow.cpp              # Logic for the main window
+│── mainwindow.cpp              # Entry point for the main window
 │── mainwindow.h                # Header file for the main window
 │── mainwindow.ui               # Qt Designer UI layout for the main window
 
