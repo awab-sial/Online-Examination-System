@@ -109,6 +109,6 @@ This project is developed strictly for academic purposes as part of the **DSA Se
 - **Submitted By:**
   - Muhammad Awab Sial
   - Syed Amber Ali Shah 
-  - Shehroz Zahid
+  - Muhammad Raza
 - **Class:** BS-CS 3B  
 - **Session:** Fall 2023  
