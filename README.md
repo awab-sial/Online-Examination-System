@@ -107,8 +107,8 @@ This project is developed strictly for academic purposes as part of the **DSA Se
 
 - **Instructor:** Ma’am Rabail Zahid  
 - **Submitted By:**
-  - Muhammad Awab Sial (01-134222-091)  
-  - Syed Amber Ali Shah (01-134222-146)  
-  - Fawad Naveed (01-134222-049)  
+  - Muhammad Awab Sial
+  - Syed Amber Ali Shah 
+  - Shehroz Zahid
 - **Class:** BS-CS 3B  
 - **Session:** Fall 2023  
