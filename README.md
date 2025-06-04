@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 
-**AI-Enhanced Online Examination System** is a smart, adaptive testing platform built with **C++ and Qt**, designed as a semester project for the **Data Structures & Algorithms (DSA)** course at **Bahria University**.
+**Online Examination System** is a smart, adaptive testing platform built with **C++ and Qt**, designed as a semester project for the **Data Structures & Algorithms (DSA)** course.
 
 The system integrates **OpenAI GPT-3** to dynamically generate questions and evaluate answers based on difficulty. It supports adaptive testing, question skipping/reattempting, group chat, and saves user exam data in local files — all within a clean and user-friendly GUI.
 
